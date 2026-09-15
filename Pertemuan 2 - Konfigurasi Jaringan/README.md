@@ -346,10 +346,3 @@ ESP8266 berhasil menjalankan mode AP + STA. ESP8266 dapat terhubung ke jaringan 
 
 ## Percobaan 2B
 <img width="1280" height="960" alt="Percobaan 2B_IoT" src="https://github.com/user-attachments/assets/e13b5f3f-365f-4fa9-94fe-a1f8b7058587" />
-
-## Video Percobaan 2B
-![video percobaan 2B](https://github.com/user-attachments/assets/71eedbbd-6bef-441e-b92b-0d69db29bcf9)
-
-
-
-
